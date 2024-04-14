@@ -12,3 +12,4 @@ C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix co
 C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.pdb
 C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.genruntimeconfig.cache
 C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\ref\Multi-thread Matrix console.dll
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.sourcelink.json

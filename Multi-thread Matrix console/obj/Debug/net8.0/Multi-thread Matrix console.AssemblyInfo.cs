@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Multi-thread Matrix console")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d6b54742aa6752ad817dbe9a363f2ec439f567e5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Multi-thread Matrix console")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Multi-thread Matrix console")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

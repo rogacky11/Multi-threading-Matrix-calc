@@ -10,22 +10,34 @@ int n = int.Parse(Console.ReadLine());
 
 Matrix matrix = new Matrix(matrixSize);
 
-Stopwatch stopwatch1 = new Stopwatch();
-Stopwatch stopwatch2 = new Stopwatch();
+int numberOfMeasurements = 10; 
 
+double threadTotalTime = 0;
+double parallelTotalTime = 0;
 
-stopwatch1.Start();
-matrix.threadMultiply(n);
-stopwatch2.Stop();
-Console.WriteLine($"Thread- number of threads: {n} time: {stopwatch1.ElapsedMilliseconds} ms");
-//matrix.displayAllMatrixes();
+for (int i = 0; i < numberOfMeasurements; i++)
+{
+    Stopwatch stopwatch1 = Stopwatch.StartNew();
+    matrix.threadMultiply(n);
+    stopwatch1.Stop();
+    threadTotalTime += stopwatch1.ElapsedMilliseconds;
+}
+double threadAverageTime = threadTotalTime / numberOfMeasurements;
 
+Console.WriteLine($"ThreadMultiply - number of threads: {n} average time: {threadAverageTime} ms");
 
-stopwatch2.Start();
-matrix.parallerMultiply(n);
-stopwatch2.Stop();
-Console.WriteLine($"Parallel- number of threads: {n} time: {stopwatch2.ElapsedMilliseconds} ms");
-//matrix.displayAllMatrixes();
+for (int i = 0; i < numberOfMeasurements; i++)
+{
+    Stopwatch stopwatch2 = Stopwatch.StartNew();
+    matrix.parallerMultiply(n);
+    stopwatch2.Stop();
+    parallelTotalTime += stopwatch2.ElapsedMilliseconds;
+}
+
+double parallelAverageTime = parallelTotalTime / numberOfMeasurements;
+
+Console.WriteLine($"ParallelMultiply - number of threads: {n} average time: {parallelAverageTime} ms");
+    
 
 
 
