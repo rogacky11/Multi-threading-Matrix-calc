@@ -1,0 +1,14 @@
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\bin\Debug\net8.0\Multi-thread Matrix console.exe
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\bin\Debug\net8.0\Multi-thread Matrix console.deps.json
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\bin\Debug\net8.0\Multi-thread Matrix console.runtimeconfig.json
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\bin\Debug\net8.0\Multi-thread Matrix console.dll
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\bin\Debug\net8.0\Multi-thread Matrix console.pdb
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.AssemblyInfoInputs.cache
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.AssemblyInfo.cs
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.csproj.CoreCompileInputs.cache
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.dll
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\refint\Multi-thread Matrix console.dll
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.pdb
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\Multi-thread Matrix console.genruntimeconfig.cache
+C:\Users\Michał\source\repos\Multi-thread Matrix console\Multi-thread Matrix console\obj\Debug\net8.0\ref\Multi-thread Matrix console.dll

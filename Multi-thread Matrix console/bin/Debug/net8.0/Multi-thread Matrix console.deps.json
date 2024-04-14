@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Multi-thread Matrix console/1.0.0": {
+        "runtime": {
+          "Multi-thread Matrix console.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Multi-thread Matrix console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
